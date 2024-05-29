@@ -1,1 +1,4 @@
-# info498
+# Examining Community Notes
+
+## Ratings
+The ratings.ipynb is a jupyter notebook containing the process taken for examining the features that most correlate with helpfulness levels. It displays the process of creating a ridge regression machine learning model for predicting helpfulness based on provided helpfulness features. We first analyzed the data by plotting various graphs to identify possible trends. Then, we trained a model that was not tuned. After, we performed random search to tune the hyperparameters for our model. We then graphed the 3 most important features for each level of helpfulness. The process can be replicated by running the cells in order.
